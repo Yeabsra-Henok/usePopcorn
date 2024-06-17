@@ -1,1 +1,1 @@
-#CinemaScore - Search and Rate Movies
+CinemaScore - Search and Rate Movies
